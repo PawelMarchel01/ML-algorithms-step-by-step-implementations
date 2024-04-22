@@ -1,5 +1,5 @@
 # ML-algorithms-implementations
-Step-by-step implementation of individual ML algorithms along with a comparison of operation with the ready-made implementation from sklearn
+Step-by-step implementation of individual ML algorithms along with a comparison of operation with the ready-made implementation from sklearn.
 
 1. **Logistic regression**:
 
