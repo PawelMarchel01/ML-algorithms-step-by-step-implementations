@@ -11,6 +11,7 @@ Step-by-step implementation of individual ML algorithms along with a comparison 
  sklearn SVM with mine implementation.
 
 3. **Decision Tree**:
+   
    Implementation of a decision tree using object-oriented programming with a test on single and multi-mode data sets.
 
 **coming soon:**
