@@ -10,7 +10,7 @@ Step-by-step implementation of individual ML algorithms along with a comparison 
    In this file you will find an SVM implementation with three different kernels (**linear**, **poly** and **RBF**). You will also find a test of each of the above kernels and a comparison of the performance of the 
  sklearn SVM with mine implementation
 
-**coming soon**
+**coming soon:**
 1. **Linear/Poly Regression**
 2. **Linear Classification**
 3. **Decision Tree**
