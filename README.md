@@ -16,9 +16,9 @@ Step-by-step implementation of individual ML algorithms along with a comparison 
 
 5. **Decision Tree**:
    
-   Implementation of a decision tree (with entropy minimization) using object-oriented programming with a test on single and multi-mode data sets.
+   Implementation of a decision tree (with **entropy minimization**) using object-oriented programming with a test on single and multi-mode data sets.
 
 6. **Random Forest**:
      1. **RandomForest** - Full implementation of the Random Forest algorithm along with a comparison of its performance with the sklearn version, on single and multi-mode data sets.
-     2. **DecisionTree** - Implementation of a decision tree (with Gini minimization).
+     2. **DecisionTree** - Implementation of a decision tree (with **Ginni reduction**).
 
