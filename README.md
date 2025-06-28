@@ -4,17 +4,17 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 
 ---
 
-## 📈 1. **Linear/Poly Regression** 
+##  1. **Linear/Poly Regression** 
    - 🚧 *Coming soon!*
 
 ---
 
-## 🔍 2. **Linear Classification** 
+##  2. **Linear Classification** 
    - 🚧 *Coming soon!*
 
 ---
 
-## 📊 3. **Logistic Regression**
+##  3. **Logistic Regression**
    - ⚙️ Custom implementation using:
      - **Gradient Descent** (with learning rate tuning)
      - ✨ **Mini-Batch** optimization
@@ -25,7 +25,7 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 
 ---
 
-## 🎯 4. **SVM (Support Vector Machines)**
+##  4. **SVM (Support Vector Machines)**
    - 🔧 Three kernel implementations:
      - ➖ **Linear Kernel** (hard/soft margin)
      - 🔶 **Polynomial Kernel** (degree customization)
@@ -37,7 +37,7 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 
 ---
 
-## 🌳 5. **Decision Tree**
+##  5. **Decision Tree**
    - 🌡️ **Entropy Minimization** approach:
      - Recursive binary splitting
      - Pre-pruning parameters
@@ -48,7 +48,7 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 
 ---
 
-## 🌲🌳 6. **Random Forest**
+##  6. **Random Forest**
 ### A) 🌲 **RandomForest Implementation**
    - 🏗️ Custom ensemble features:
      - Bagging with replacement
