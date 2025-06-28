@@ -58,4 +58,4 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 
 ## 👨‍💻 Author  
 **Paweł Marchel**  
-💡 Contributions welcome! Star ⭐ the repo if you find it useful.
+If you find this project helpful, feel free to star ⭐ the repo or get in touch for collaboration.
