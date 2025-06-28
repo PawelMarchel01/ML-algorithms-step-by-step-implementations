@@ -1,24 +1,70 @@
-# ML algorithms step by step implementations
-Step-by-step implementation of individual ML algorithms along with a comparison of operation with the ready-made implementation from sklearn.
+# 🧮 ML Algorithms: Step-by-Step Implementations
 
-1. **Linear/Poly Regression**: coming soon!
+Step-by-step implementation of core Machine Learning algorithms with performance comparisons against sklearn implementations.
 
-2. **Linear Classification**: coming soon!
+---
 
-3. **Logistic Regression**:
+## 📈 1. **Linear/Poly Regression** 
+   - 🚧 *Coming soon!*
 
-   This file contains an example implementation of logistic regression using the **gradient descent method**. The function also has the **mini bach** and **squared gradients sum** algorithms, they were added to optimize the function. The algorithm's performance was tested on two synthetic data sets.
+---
 
-4. **SVM**:
+## 🔍 2. **Linear Classification** 
+   - 🚧 *Coming soon!*
 
-   In this file you will find an SVM implementation with three different kernels (**linear**, **poly** and **RBF**). You will also find a test of each of the above kernels and a comparison of the performance of the 
- sklearn SVM with mine implementation.
+---
 
-5. **Decision Tree**:
-   
-   Implementation of a decision tree (with **entropy minimization**) along with a test on single and multi-mode data sets.
+## 📊 3. **Logistic Regression**
+   - ⚙️ Custom implementation using:
+     - **Gradient Descent** (with learning rate tuning)
+     - ✨ **Mini-Batch** optimization
+     - 📉 **Squared Gradients Sum** (AdaGrad-style)
+   - 🧪 Tested on synthetic datasets:
+     - Binary classification
+     - Multi-class scenarios
 
-6. **Random Forest**:
-     1. **RandomForest** - Full implementation of the Random Forest algorithm along with a comparison of its performance with the sklearn version, on single and multi-mode data sets.
-     2. **DecisionTree** - Implementation of a Decision Tree (with **Ginni reduction**).
+---
 
+## 🎯 4. **SVM (Support Vector Machines)**
+   - 🔧 Three kernel implementations:
+     - ➖ **Linear Kernel** (hard/soft margin)
+     - 🔶 **Polynomial Kernel** (degree customization)
+     - 🌐 **RBF Kernel** (gamma parameter tuning)
+   - ⚖️ Benchmarking against sklearn's SVM:
+     - Accuracy comparison
+     - Training time analysis
+   - 📊 Visualization of decision boundaries
+
+---
+
+## 🌳 5. **Decision Tree**
+   - 🌡️ **Entropy Minimization** approach:
+     - Recursive binary splitting
+     - Pre-pruning parameters
+   - 🧪 Test scenarios:
+     - Single-feature datasets
+     - High-dimensional multi-class problems
+   - 📉 Comparison with sklearn's DecisionTreeClassifier
+
+---
+
+## 🌲🌳 6. **Random Forest**
+### A) 🌲 **RandomForest Implementation**
+   - 🏗️ Custom ensemble features:
+     - Bagging with replacement
+     - Feature subspace selection
+   - ⏱️ Performance metrics:
+     - OOB (Out-of-Bag) error estimation
+     - Comparison with sklearn.ensemble.RandomForest
+
+### B) ✂️ **DecisionTree (Gini Variant)**
+   - 🎯 **Gini Impurity** reduction:
+     - Alternative splitting criterion
+     - Depth control mechanisms
+   - 🔄 Interchangeable with Entropy version
+
+---
+
+## 👨‍💻 Author  
+**Paweł Marchel**  
+💡 Contributions welcome! Star ⭐ the repo if you find it useful.
