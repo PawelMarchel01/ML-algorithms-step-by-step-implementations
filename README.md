@@ -53,15 +53,7 @@ Step-by-step implementation of core Machine Learning algorithms with performance
    - 🏗️ Custom ensemble features:
      - Bagging with replacement
      - Feature subspace selection
-   - ⏱️ Performance metrics:
-     - OOB (Out-of-Bag) error estimation
      - Comparison with sklearn.ensemble.RandomForest
-
-### B) ✂️ **DecisionTree (Gini Variant)**
-   - 🎯 **Gini Impurity** reduction:
-     - Alternative splitting criterion
-     - Depth control mechanisms
-   - 🔄 Interchangeable with Entropy version
 
 ---
 
