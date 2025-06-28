@@ -49,7 +49,6 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 ---
 
 ##  6. **Random Forest**
-### A) 🌲 **RandomForest Implementation**
    - 🏗️ Custom ensemble features:
      - Bagging with replacement
      - Feature subspace selection
