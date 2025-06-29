@@ -4,13 +4,21 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 
 ---
 
-##  1. **Linear/Poly Regression** 
-   - 🚧 *Coming soon!*
+##  1. **Linear Regression**  
+   - 📉 Implemented both **analytical** and **numerical** solutions:  
+     - Closed-form linear regression  
+     - Powell’s optimization method (scipy)  
+   - 🧪 Tested on synthetic 1D datasets (`make_regression`, noise=16)  
+   - ⏱️ Compared in terms of **accuracy** and **runtime**
 
 ---
 
-##  2. **Linear Classification** 
-   - 🚧 *Coming soon!*
+##  2. **Linear Classification**  
+   - 🧾 Analytical implementation with **Tikhonov regularization**  
+   - 🧪 Benchmarked against `RidgeClassifier` from sklearn  
+   - ❤️ Applied to **Cleveland Heart Disease** dataset:
+     - Data preprocessing, outlier removal  
+     - Statistical profiling and feature selection (manual vs automatic)  
 
 ---
 
@@ -53,6 +61,13 @@ Step-by-step implementation of core Machine Learning algorithms with performance
      - Bagging with replacement
      - Feature subspace selection
      - Comparison with sklearn.ensemble.RandomForest
+
+---
+
+##  7. **Neural Network (Custom Implementation)**  
+   - 🧠 Manually built **multi-layer feedforward neural network**
+   - 📦 Trained on **MNIST** with adjustable activation functions (e.g., ReLU, Sigmoid)  
+   - 📈 Reports metrics after each epoch: **accuracy**, **sensitivity**, **specificity**  
 
 ---
 
