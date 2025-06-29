@@ -64,7 +64,7 @@ Step-by-step implementation of core Machine Learning algorithms with performance
 
 ---
 
-##  7. **Neural Network (Custom Implementation)**  
+##  7. **Neural Network**  
    - 🧠 Manually built **multi-layer feedforward neural network**
    - 📦 Trained on **MNIST** with adjustable activation functions (e.g., ReLU, Sigmoid)  
    - 📈 Reports metrics after each epoch: **accuracy**, **sensitivity**, **specificity**  
