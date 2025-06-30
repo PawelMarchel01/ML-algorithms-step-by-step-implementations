@@ -1,6 +1,6 @@
 # 🧮 ML Algorithms: Step-by-Step Implementations
 
-Step-by-step implementation of core Machine Learning algorithms with performance comparisons against sklearn implementations.
+Step-by-step implementation of basic machine learning algorithms with performance comparisons against the sklearn implementation and solving classification and prediction problems.
 
 ---
 
